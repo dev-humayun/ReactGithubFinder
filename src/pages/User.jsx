@@ -163,12 +163,7 @@ function User() {
           </div>
         </div>
         <RepoList repos={repos}/>
-          
-            
-          
-          
-        
-       
+
 
       
     </div>
